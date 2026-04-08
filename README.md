@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Zachary Yuan, applied mathematics, computer science, and neuroscience undergraduate student at Brown University.
+  Hi, I'm Zachary Yuan, applied mathematics, a computer science, and neuroscience undergraduate student at Brown University.
   <br>
   💻 I love writing code and solving logic puzzles!
   <br>
