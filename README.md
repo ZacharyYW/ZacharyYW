@@ -14,7 +14,7 @@
 <p align="center">
   Hi, I'm Zachary Yuan, applied mathematics, computer science, and neuroscience undergraduate student at Brown University.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and solving logic puzzles!
   <br>
   📫 How to reach me: <a href="mailto: zacharywyuan123@gmail.com">zacharywyuan123@gmail.com</a>
 </p>
@@ -76,9 +76,11 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZacharyYW&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
+<!---
+" at the very bottom to enable
+     =========================================================
 <hr>
-<!--->
+
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -100,8 +102,6 @@
   <a href="https://github.com/ZacharyYW?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
---->
-<!--
 **ZacharyYW/ZacharyYW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -115,9 +115,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
 Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
 
 ![Metrics](https://metrics.lecoq.io/ZacharyYW?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
 -->
